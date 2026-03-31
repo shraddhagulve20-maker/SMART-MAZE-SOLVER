@@ -8,17 +8,15 @@ Smart Maze Solver (A*)
 1. Requirements
 
 Python 3.x
-
-*Pygame library
+Pygame library
 
 2. Installation
-
 Bash
 pip install pygame
-3. Run the App
 
-*Bash
-python maze_solver.py
+4. Run the App
+Bash
+python my_project.py
 
 
  *Controls
@@ -38,7 +36,7 @@ Heuristic (h): Manhattan Distance
 Data Structure: Priority Queue (heapq) for optimal node selection.
 
  Files
-maze_solver.py - Main source code.
+my_project.py- Main source code.
 
 README.md - Setup and documentation.
 
